@@ -5,7 +5,7 @@ I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast.
 
 
 
-![Echnology and Cybersecurity](https://www.louisvuitton.com/images/is/image/lv/MEN_ACC_BC_LV_CLASH_01_DI3.jpg?wid=2400)
+![Echnology and Cybersecurity](https://vn.louisvuitton.com/content/dam/lv/online/high-end/unisex/Fragrances/W_Fa_Fragrances_Flacon_Exception_v2.html/jcr:content/assets/masthead/header_flacons_exception_DI1.jpg?imwidth=2400)
 
 I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast. I love to explore new technologies and develop innovative applications. Besides, I also like to read books and participate in extracurricular activities to expand my knowledge and skills. Hope to have the opportunity to cooperate and share ideas with everyone!!👨‍🎓 
 
