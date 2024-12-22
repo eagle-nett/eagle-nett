@@ -2,7 +2,7 @@
 
 I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast. I enjoy to explore new technologies and develop innovative applications. Besides, I also like to read books and participate in extracurricular activities to expand my knowledge and skills. Hope to have the opportunity to cooperate and share ideas with everyone!!👨‍🎓 
 
-![Echnology and Cybersecurity](https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/398466993_2032493237113377_5333452190970616239_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHZl-qgHsUHD8z5tIsTeTm8_KJLc5YxsGD8oktzljGwYFB0A7RBWVBLOAATfxjteA6UWbyZnz0UaMcGVIutjuTu&_nc_ohc=0Nnrm4b9ZyQQ7kNvgHFLERb&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=AR9JgdtbqShUEFWi0yNrqdA&oh=00_AYDXkHVC9Odr6IL0qxrQtezgHvq-FIHK4u3H9TVooc0V0Q&oe=67460686)
+![Echnology and Cybersecurity](https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/398466993_2032493237113377_5333452190970616239_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=mDJwOddDmUgQ7kNvgEohGX9&_nc_zt=23&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=AURTnEv8FwkEPyazcQHmij9&oh=00_AYDa5yOGGtaEgF3N0CcMoCN8tCKfJRXItgwy5ydLLaki4Q&oe=676DCBC6)
 
 
 ## Skills and Experience
