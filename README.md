@@ -7,11 +7,11 @@ I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast.
 
 ## Skills and Experience
 * ⚙ Security Tools: Palo Alto, Metasploit, Nessus, Wireshark, Hydra, OpenVAS, Bitwarden, SophosUTM
-* 🖋 Programming Language: C#, Java, C++
+* 🖋 Programming Language: C#, Javascript, C++
 * 📱 Systems: Snort, Suricata, VMWare, VirtualBox, OSSEC, Pfsense, MRTG, Zabbix, ProxmoxVE
 * 💻 Service: DNS, Domain Controller, SSH, Telnet, FTP Server, DHCP, HTTP/HTTPS
-* 👾 Attack Technique: SQL injecsion, DOS/DDOS, Brute Force, Malware, Phising
-* 🎃 CEH, CCNA, OSCP
+* 👾 Attack Technique: SQL injecsion, DOS/DDOS, Brute Force, Malware, Phising, XSS
+* 🎃 CEH, CCNA, OSCP (in progress)
 * 🔑 Cryptography: DES, RSA, Diffie-Hellman, Caesar, Twofish, MD5, Affine, One-time Pad, RC4
 
 ![Echnology and Cybersecurity](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
