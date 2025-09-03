@@ -4,13 +4,15 @@ I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast.
 
 ![unnamed](https://github.com/user-attachments/assets/86e52b41-cb3d-4aa5-8408-d3b387885b06)
 
+> *"The quieter you become, the more you are able to hear."* – Cyber Wisdom
+
 ## 🔐 Technology & Cybersecurity  
 [![Security](https://img.shields.io/badge/Security-Cyber-blue?style=for-the-badge&logo=datadog)](https://cryptophary.litndat.click/)
 ![Technology](https://img.shields.io/badge/Tech-Enthusiast-green?style=for-the-badge&logo=github)  
 
 ![image](https://github.com/user-attachments/assets/d5a0c2db-4858-4a1e-8f06-3a3b84d492b3)
 
-> *"The quieter you become, the more you are able to hear."* – Cyber Wisdom
+> *"VietNamese number one hẹ hẹ hẹ."* - Cyber Datlee
 
 
 ## Skills and Experience
@@ -19,7 +21,7 @@ I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast.
 * 📱 Systems: Snort, Suricata, VMWare, VirtualBox, OSSEC, Pfsense, MRTG, Zabbix, ProxmoxVE
 * 💻 Service: DNS, Domain Controller, SSH, Telnet, FTP Server, DHCP, HTTP/HTTPS
 * 👾 Attack Technique: SQL injecsion, DOS/DDOS, Brute Force, Malware, Phising, XSS
-* 🎃 CEH, CCNA, OSCP (in progress)
+* 🎃 CEH, CCNA, OSCP, ERP (in progress)
 * 🔑 Cryptography: DES, RSA, Diffie-Hellman, Caesar, Twofish, MD5, Affine, One-time Pad, RC4
 
 ![Echnology and Cybersecurity](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
