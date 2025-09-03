@@ -2,10 +2,15 @@
 
 I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast. I enjoy to explore new technologies and develop innovative applications. Besides, I also like to read books and participate in extracurricular activities to expand my knowledge and skills. Hope to have the opportunity to cooperate and share ideas with everyone!!👨‍🎓 
 
+![unnamed](https://github.com/user-attachments/assets/86e52b41-cb3d-4aa5-8408-d3b387885b06)
+
+## 🔐 Technology & Cybersecurity  
+![Security](https://img.shields.io/badge/Security-Cyber-blue?style=for-the-badge&logo=datadog)  
+![Technology](https://img.shields.io/badge/Tech-Enthusiast-green?style=for-the-badge&logo=github)  
+
 ![image](https://github.com/user-attachments/assets/d5a0c2db-4858-4a1e-8f06-3a3b84d492b3)
 
-![Echnology and Cybersecurity](https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/398466993_2032493237113377_5333452190970616239_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=mDJwOddDmUgQ7kNvgEohGX9&_nc_zt=23&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=AURTnEv8FwkEPyazcQHmij9&oh=00_AYDa5yOGGtaEgF3N0CcMoCN8tCKfJRXItgwy5ydLLaki4Q&oe=676DCBC6)
-
+> *"The quieter you become, the more you are able to hear."* – Cyber Wisdom
 
 
 ## Skills and Experience
