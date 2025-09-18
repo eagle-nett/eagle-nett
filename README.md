@@ -1,6 +1,6 @@
 # 👋Hellooo!!! Welcome to here!!👀🔥
 
-I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast. I enjoy to explore new technologies and develop innovative applications. Besides, I also like to read books and participate in extracurricular activities to expand my knowledge and skills. Hope to have the opportunity to cooperate and share ideas with everyone!!👨‍🎓 
+I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast. I enjoy to explore new technologies and develop innovative applications. Besides, I also like to read books and participate in scientific research activities to expand my knowledge and skills. Hope to have the opportunity to cooperate and share ideas with everyone!!👨‍🎓 
 
 ![unnamed](https://github.com/user-attachments/assets/86e52b41-cb3d-4aa5-8408-d3b387885b06)
 
