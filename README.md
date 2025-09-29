@@ -8,7 +8,7 @@ I'm Tien Dat from Vietnamese, I do work technology and cybersecurity enthusiast.
 
 ## 🔐 Technology & Cybersecurity  
 [![Security](https://img.shields.io/badge/Security-Cyber-blue?style=for-the-badge&logo=datadog)](https://cryptophary.litndat.click/)
-![Technology](https://img.shields.io/badge/Tech-Enthusiast-green?style=for-the-badge&logo=github)  
+[![Technology](https://img.shields.io/badge/Tech-Enthusiast-green?style=for-the-badge&logo=github)](https://shop.litndat.click/).  
 
 ![image](https://github.com/user-attachments/assets/d5a0c2db-4858-4a1e-8f06-3a3b84d492b3)
 
