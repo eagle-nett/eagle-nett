@@ -46,4 +46,12 @@ Or donate:
 - **Website:** [donate-vn.netlify.app](https://donate-vn.netlify.app/)  
 - **Momo/Bank:** Contact me.
 
+## 🐍[🐍](https://github.com/eagle-nett/eagle-nett/blob/output/ocean.gif)
+![snake svg](https://github.com/eagle-nett/eagle-nett/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
 
