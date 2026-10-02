@@ -1,6 +1,6 @@
 # 👋Hellooo!!! Welcome to here!!👀🔥
 
-I'm Tien Dat from Vietnam, a technology enthusiast passionate about cybersecurity. I enjoy exploring new technologies and developing innovative applications based on what I have learned. Besides, I also enjoy sports, traveling and exploring new places, and participating in scientific research activities to expand my knowledge and skills. Hope to have the opportunity to cooperate and share ideas with everyone!!👨‍🎓 
+I'm Tien Dat from Vietnam, a technology enthusiast passionate about cybersecurity. I enjoy exploring new technologies and developing innovative applications based on what I have learned. Besides, I also enjoy sports, traveling, exploring new places, and participating in scientific research activities to expand my knowledge and skills. Hope to have the opportunity to cooperate and share ideas with everyone!!👨‍🎓 
 
 ![unnamed](https://github.com/user-attachments/assets/86e52b41-cb3d-4aa5-8408-d3b387885b06)
 
